@@ -3,3 +3,4 @@
 - Lasanha;
 - Pavê;
 - Sopa de ervilha;
+- Strogonoff;
